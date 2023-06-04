@@ -3,7 +3,6 @@
 I am using typescript  to do this implementaion
 
 
-# Getting started
 first use this command to install dependencies:
 
 	npm install
